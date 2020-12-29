@@ -1,2 +1,2 @@
-# NO.22_Check_Internet_Source
- This is a project which display the current connection network type, and will talk about a Toast, prompted internet source
+# Android-Studio-22-InternetSource
+ This is a project that will display the current connection network type, and will talk about a Toast prompt
